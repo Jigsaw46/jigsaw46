@@ -17,11 +17,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jigsaw46&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-##<picture>
-##  <source media="(prefers-color-scheme: dark)" srcset="https://gitlab.com/jigsaw46/jigsaw46-/raw/main/output/galaga-contribution-graph-dark.svg">
-##  <source media="(prefers-color-scheme: light)" srcset="https://gitlab.com/jigsaw46/jigsaw46/-/raw/main/output/galaga-contribution-graph.svg">
-##  <img alt="[galaga] contribution graph" src="https://gitlab.com/jigsaw46/jigsaw46/-/raw/main/output/galaga-contribution-graph.svg">
-##</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jigsaw46/jigsaw46/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jigsaw46/jigsaw46/output/galaga-contribution-graph.svg">
+  <img alt="[galaga] contribution graph" src="https://raw.githubusercontent.com/jigsaw46/jigsaw46/output/galaga-contribution-graph.svg">
+</picture>
 
 
 
