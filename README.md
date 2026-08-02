@@ -16,7 +16,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jigsaw46&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jigsaw46&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mtt5zndotf8btiy90jx02e2yz&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 
 
@@ -26,4 +26,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jigsaw46/jigsaw46/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jigsaw46/jigsaw46/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jigsaw46/jigsaw46/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
